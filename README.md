@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding pic" width="100%"/>)
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vasanta Pagadala </h1>
 
 
@@ -27,7 +27,8 @@
 
 - 📫 How to reach me **[email](mailto:yashagrawal13072000@gmail.com)**
 
-- 📄 Know about my experiences [here](https://yashagrawal.vercel.app/)
+- 📄 Kn![68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633](https://github.com/user-attachments/assets/535ed7d1-2823-4296-a908-a61afeb861b0)
+ow about my experiences [here](https://yashagrawal.vercel.app/)
 
 
 - ⚡ Fun fact **When I'm not coding, you might find me hitting the gym or diving into my favorite music playlists. Staying fit and enjoying tunes keeps me energized and creative!**
