@@ -1,25 +1,28 @@
-- 👋 Hi, I’m @vasantapagadala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding pic" width="100%"/>
+<h1 align="center">Hi 👋, I'm Vasanta Pagadala ✨😇</h1>
+<h3 align="center">"An Enthusiastic Full Stack Developer: Bridging the gap between design and functionality."</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/df3de748-dbdc-4448-856d-f7261f608b93">
 
-![MasterHead](<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding pic" width="100%"/>)
-<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Vasanta Pagadala </h1>
+<!--  For Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasantapagadala&label=Profile%20views&color=0e75b6&style=flat" alt="vasantapagadala" /> </p> 
 
 
+ 💻 Experienced in **full-stack development.**
+  
+ ❄️ Skilled in building dynamic applications using **ReactJS and Next.js**.
+
+ ⚡ Proficient in **Node.js, Express, and REST APIs**.
+ 
+ ☁️ Experienced in **DevOps**, optimizing workflows through **CI/CD pipelines**.
+ 
+ 🎓 **Master’s in CS** graduated from **University of North Texas**
+  
+  💼 **Software Engineer** with 2 years of experience at **HCL Technologies**
+  
+  🏦 Contributed to the design and development of the **Commonwealth Bank of Australia (CBA)** project🚀🚀
 
 
-<h3 align="center">A Passionate Software Developer Seeking New Opportunities 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashagrawal13072000&label=Profile%20views&color=0e75b6&style=flat" alt="yashagrawal13072000" /> </p>
-
-- 🔭 I’m currently working on **Finance SaaS Platform**
-
-- 🌱 I’m currently learning **Socket.io, Prisma and Tailwind**
+ <!--
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/yash-agrawal1307/)
 
@@ -27,11 +30,11 @@
 
 - 📫 How to reach me **[email](mailto:yashagrawal13072000@gmail.com)**
 
-- 📄 Kn![68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837323633](https://github.com/user-attachments/assets/535ed7d1-2823-4296-a908-a61afeb861b0)
-ow about my experiences [here](https://yashagrawal.vercel.app/)
+- 📄 Know about my experiences [here](https://yashagrawal.vercel.app/)
 
 
 - ⚡ Fun fact **When I'm not coding, you might find me hitting the gym or diving into my favorite music playlists. Staying fit and enjoying tunes keeps me energized and creative!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,14 +50,14 @@ ow about my experiences [here](https://yashagrawal.vercel.app/)
 ### Languages:
 | Python3 | Java | SQL | TypeScript | JavaScript
 |:-:|:-:|:-:|:-: |:-:
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/73a59e1f-fb7e-48b2-a9de-e6a30da999e4" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/73a59e1f-fb7e-48b2-a9de-e6a30da999e4" title="MySQL"  alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/>
   
 
 ### Frameworks and Libraries:
 
 | React | Tailwind | Node.JS | Socket.io | Bootstrap | Framer Motion | Three JS |
 |:-:|:-:|:-:|:-:|:-:|:-:| :-:
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.JS" alt="Node.JS" width="55" height="55"/>| <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" title="Socket.io"  alt="Socket.io" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="FM" alt="FM" width="55" height="55"/>|  <img src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png" title="Three" alt="Three" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.JS" alt="Node.JS" width="55" height="55"/>| <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" title="Socket.io"  alt="Socket.io" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>|  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" title="FM" alt="FM" width="55" height="55"/>|  <img src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png" title="Three" alt="Three" width="55" height="55"/>|
 
   
 ### Tools, Software and Technologies:
@@ -70,17 +73,23 @@ ow about my experiences [here](https://yashagrawal.vercel.app/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashagrawal13072000&&theme=tokyonight" alt="yashagrawal13072000" /></p>
 
-## ✍️ Random Dev Quote
+-->
 
+## ✍️ My Code
 <div align="center">
-
-Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
-
-![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
-
+"The best opportunities don’t pass me by — they come straight to me,🔆 and I’m always prepared to take them.🎯🏆"
 </div>
 
 <!---
 vasantapagadala/vasantapagadala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- 👋 Hi, I’m @vasantapagadala
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 --->
+
