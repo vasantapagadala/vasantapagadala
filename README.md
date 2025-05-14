@@ -50,25 +50,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
 |<img src="https://github.com/user-attachments/assets/2fe9d0ca-2872-4f2c-ae92-1090ab291a32" title="DevOps" alt="DevOps" width="55" height="55"/>|<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" title="github" alt="github" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="55" height="55"/>
 
-
-
-
-
- <!--
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/yash-agrawal1307/)
-- 💬 Ask me about **ReactJS and Next.js**
-- 📄 Know about my experiences [here](https://yashagrawal.vercel.app/)
-- ⚡ Fun fact **When I'm not coding, you might find me hitting the gym or diving into my favorite music playlists. Staying fit and enjoying tunes keeps me energized and creative!**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-agrawal1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-agrawal1307" height="30" width="40" /></a>
-<a href="https://instagram.com/yash_agrawal1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_agrawal1307" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashagrawal1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashagrawal13072000" height="30" width="40" /></a>
-<a href="https://fb.com/yashhagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashhagrawal" height="30" width="40" /></a>
-</p>
-
--->
-
 ## ✍️ My Code
 <div align="center">
 "The best opportunities don’t pass me by — they come straight to me,🔆 and I’m always prepared to take them.🎯🏆"
